@@ -1,0 +1,9 @@
+Qwerty Core
+===========
+
+Qwerty core incorporates authentication (AuthLogic) and authorisation (authorisation.yml) in to any Rails app
+
+Please see skeletor app for details on usage.
+
+Author: Kris Leech @ interkonect.com
+http://interkonect.com
